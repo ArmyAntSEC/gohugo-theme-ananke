@@ -18,3 +18,7 @@
 .nested-links a{
   overflow-wrap: break-word;
 }
+
+.tc-l p {
+  text-align: justify;
+}
